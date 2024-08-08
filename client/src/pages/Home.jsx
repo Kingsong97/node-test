@@ -104,6 +104,36 @@ function Home() {
                                     </Button>
                                 </CardActions>
                             </Card>
+                            <Card>
+                                <CardContent>
+                                    <Typography variant="h5" component="div">
+                                        기업이 원하는 인재상
+                                    </Typography>
+                                    <Typography variant="body2" color="text.secondary">
+                                        기업들의 인재상을 파해치다!
+                                    </Typography>
+                                </CardContent>
+                                <CardActions>
+                                    <Button size="small" variant="contained" color="primary">
+                                        바로보기
+                                    </Button>
+                                </CardActions>
+                            </Card>
+                            <Card>
+                                <CardContent>
+                                    <Typography variant="h5" component="div">
+                                        자기계발의 노하우
+                                    </Typography>
+                                    <Typography variant="body2" color="text.secondary">
+                                        자기계발의 끝을 논하다!
+                                    </Typography>
+                                </CardContent>
+                                <CardActions>
+                                    <Button size="small" variant="contained" color="primary">
+                                        바로보기
+                                    </Button>
+                                </CardActions>
+                            </Card>
                         </div>
                     </section>
                 </div>
